@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/spring-security-sso.iml" filepath="$PROJECT_DIR$/spring-security-sso.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-security-sso-auth-server/spring-security-sso-auth-server.iml" filepath="$PROJECT_DIR$/spring-security-sso-auth-server/spring-security-sso-auth-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-security-sso-ui/spring-security-sso-ui.iml" filepath="$PROJECT_DIR$/spring-security-sso-ui/spring-security-sso-ui.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-security-sso-ui-2/spring-security-sso-ui-2.iml" filepath="$PROJECT_DIR$/spring-security-sso-ui-2/spring-security-sso-ui-2.iml" />
+    </modules>
+  </component>
+</project>
