@@ -44,7 +44,7 @@
              <artifactId>thymeleaf-extras-springsecurity4</artifactId>
          </dependency>
 
-2.2。安全配置
+2.2. 安全配置
 接下来，最重要的部分是我们客户端应用程序的安全配置：
 ``` python
 @Configuration
