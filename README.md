@@ -228,5 +228,5 @@ public class UserController {
 当然，这将以JSON表示形式返回用户数据。
 
 **参考资料:**
-
+http://www.baidu.com
 http://www.baeldung.com/sso-spring-security-oauth2
