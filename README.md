@@ -229,4 +229,5 @@ public class UserController {
 
 **参考资料:**
 http://www.baidu.com
+http://www.google.cn
 http://www.baeldung.com/sso-spring-security-oauth2
